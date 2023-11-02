@@ -1,0 +1,251 @@
+Rank,Movie Name,Rating,Released,Duration
+1,"['1', ' The Shawshank Redemption']",9.3,1994,2h 22m
+2,"['2', ' The Godfather']",9.2,1972,2h 55m
+3,"['3', ' The Dark Knight']",9.0,2008,2h 32m
+4,"['4', ' The Godfather: Part II']",9.0,1974,3h 22m
+5,"['5', ' 12 Angry Men']",9.0,1957,1h 36m
+6,"['6', "" Schindler's List""]",9.0,1993,3h 15m
+7,"['7', ' The Lord of the Rings: The Return of the King']",9.0,2003,3h 21m
+8,"['8', ' Pulp Fiction']",8.9,1994,2h 34m
+9,"['9', ' The Lord of the Rings: The Fellowship of the Ring']",8.8,2001,2h 58m
+10,"['10', ' Il Buono, Il Brutto, Il Cattivo']",8.8,1966,2h 41m
+11,"['11', ' Forrest Gump']",8.8,1994,2h 22m
+12,"['12', ' Fight Club']",8.8,1999,2h 19m
+13,"['13', ' The Lord of the Rings: The Two Towers']",8.8,2002,2h 59m
+14,"['14', ' Inception']",8.8,2010,2h 28m
+15,"['15', ' Star Wars: Episode V - The Empire Strikes Back']",8.7,1980,2h 4m
+16,"['16', ' The Matrix']",8.7,1999,2h 16m
+17,"['17', ' GoodFellas']",8.7,1990,2h 25m
+18,"['18', "" One Flew Over the Cuckoo's Nest""]",8.7,1975,2h 13m
+19,"['19', ' Se7en']",8.6,1995,2h 7m
+20,"['20', "" It's a Wonderful Life""]",8.6,1946,2h 10m
+21,"['21', ' Shichinin No Samurai']",8.6,1954,3h 27m
+22,"['22', ' Interstellar']",8.7,2014,2h 49m
+23,"['23', ' The Silence of the Lambs']",8.6,1991,1h 58m
+24,"['24', ' Spider-man: Across the Spider-verse']",8.7,2023,2h 20m
+25,"['25', ' Saving Private Ryan']",8.6,1998,2h 49m
+26,"['26', ' City of God']",8.6,2002,2h 10m
+27,"['27', ' Life Is Beautiful']",8.6,1997,1h 56m
+28,"['28', ' The Green Mile']",8.6,1999,3h 9m
+29,"['29', ' Star Wars: Episode IV - A New Hope']",8.6,1977,2h 1m
+30,"['30', ' Terminator 2: Judgment Day']",8.6,1991,2h 17m
+31,"['31', ' Back to the Future']",8.5,1985,1h 56m
+32,"['32', ' Spirited Away']",8.6,2001,2h 5m
+33,"['33', ' The Pianist']",8.5,2002,2h 30m
+34,"['34', ' Psycho']",8.5,1960,1h 49m
+35,"['35', ' Parasite']",8.5,2019,2h 12m
+36,"['36', ' Gladiator']",8.5,2000,2h 35m
+37,"['37', ' The Lion King']",8.5,1994,1h 28m
+38,"['38', ' Léon']",8.5,1994,1h 50m
+39,"['39', ' American History X']",8.5,1998,1h 59m
+40,"['40', ' The Departed']",8.5,2006,2h 31m
+41,"['41', ' Whiplash']",8.5,2014,1h 46m
+42,"['42', ' The Prestige']",8.5,2006,2h 10m
+43,"['43', ' The Usual Suspects']",8.5,1995,1h 46m
+44,"['44', ' Grave of the Fireflies']",8.5,1988,1h 29m
+45,"['45', ' Seppuku']",8.6,1962,2h 13m
+46,"['46', ' Casablanca']",8.5,1942,1h 42m
+47,"['47', ' Oppenheimer']",8.5,2023,3h
+48,"['48', ' Intouchables']",8.5,2011,1h 52m
+49,"['49', ' Modern Times']",8.5,1936,1h 27m
+50,"['50', ' Cinema Paradiso']",8.5,1988,2h 35m
+51,"['51', "" C'era Una Volta Il West""]",8.5,1968,2h 45m
+52,"['52', ' Rear Window']",8.5,1954,1h 52m
+53,"['53', ' Alien']",8.5,1979,1h 57m
+54,"['54', ' City Lights']",8.5,1931,1h 27m
+55,"['55', ' Apocalypse Now']",8.4,1979,2h 27m
+56,"['56', ' Memento']",8.4,2000,1h 53m
+57,"['57', ' Django Unchained']",8.5,2012,2h 45m
+58,"['58', ' Raiders of the Lost Ark']",8.4,1981,1h 55m
+59,"['59', ' WALL·E']",8.4,2008,1h 38m
+60,"['60', ' Das Leben der Anderen']",8.4,2006,2h 17m
+61,"['61', ' Sunset Blvd', '']",8.4,1950,1h 50m
+62,"['62', ' Paths of Glory']",8.4,1957,1h 28m
+63,"['63', ' Avengers: Infinity War']",8.4,2018,2h 29m
+64,"['64', ' The Shining']",8.4,1980,2h 26m
+65,"['65', ' The Great Dictator']",8.4,1940,2h 5m
+66,"['66', ' Witness for the Prosecution']",8.4,1957,1h 56m
+67,"['67', ' Spider-Man: Into the Spider-Verse']",8.4,2018,1h 57m
+68,"['68', ' Alien 2']",8.4,1986,2h 17m
+69,"['69', ' Inglourious Basterds']",8.4,2009,2h 33m
+70,"['70', ' The Dark Knight Rises']",8.4,2012,2h 44m
+71,"['71', ' American Beauty']",8.3,1999,2h 2m
+72,"['72', ' Dr', ' Strangelove or: How I Learned to Stop Worrying and Love the Bomb']",8.4,1964,1h 35m
+73,"['73', ' Oldeuboi']",8.4,2003,1h 41m
+74,"['74', ' Coco']",8.4,2017,1h 45m
+75,"['75', ' Amadeus']",8.4,1984,2h 40m
+76,"['76', ' Toy Story']",8.3,1995,1h 21m
+77,"['77', ' Das Boot']",8.4,1981,2h 29m
+78,"['78', ' Braveheart']",8.3,1995,2h 58m
+79,"['79', ' Avengers: Endgame']",8.4,2019,3h 1m
+80,"['80', ' Joker']",8.4,2019,2h 2m
+81,"['81', ' Mononoke-hime']",8.3,1997,2h 14m
+82,"['82', ' Good Will Hunting']",8.3,1997,2h 6m
+83,"['83', ' Kimi No Na Wa', '']",8.4,2016,1h 46m
+84,"['84', ' Once Upon a Time in America']",8.3,1984,3h 49m
+85,"['85', ' 3 Idiots']",8.4,2009,2h 50m
+86,"['86', ' Tengoku to Jigoku']",8.4,1963,2h 23m
+87,"['87', "" Singin' in the Rain""]",8.3,1952,1h 43m
+88,"['88', ' Capharnaüm']",8.4,2018,2h 6m
+89,"['89', ' Requiem for a Dream']",8.3,2000,1h 42m
+90,"['90', ' Toy Story 3']",8.3,2010,1h 43m
+91,"['91', ' Idi I Smotri']",8.4,1985,2h 22m
+92,"['92', ' Star Wars: Episode VI - Return of the Jedi']",8.3,1983,2h 11m
+93,"['93', ' Eternal Sunshine of the Spotless Mind']",8.3,2004,1h 48m
+94,"['94', ' 2001: A Space Odyssey']",8.3,1968,2h 29m
+95,"['95', ' Jagten']",8.3,2012,1h 55m
+96,"['96', ' Reservoir Dogs']",8.3,1992,1h 39m
+97,"['97', ' Ikiru']",8.3,1952,2h 23m
+98,"['98', ' Lawrence of Arabia']",8.3,1962,3h 38m
+99,"['99', ' Citizen Kane']",8.3,1941,1h 59m
+100,"['100', ' The Apartment']",8.3,1960,2h 5m
+101,"['101', ' M - Eine Stadt sucht einen Mörder']",8.3,1931,1h 57m
+102,"['102', ' North by Northwest']",8.3,1959,2h 16m
+103,"['103', ' Vertigo']",8.3,1958,2h 8m
+104,"['104', ' Double Indemnity']",8.3,1944,1h 47m
+105,"['105', "" Le fabuleux destin d'Amélie Poulain""]",8.3,2001,2h 2m
+106,"['106', ' Scarface']",8.3,1983,2h 50m
+107,"['107', ' Full Metal Jacket']",8.3,1987,1h 56m
+108,"['108', ' A Clockwork Orange']",8.3,1971,2h 16m
+109,"['109', ' Incendies']",8.3,2010,2h 11m
+110,"['110', ' Heat']",8.3,1995,2h 50m
+111,"['111', ' Up']",8.3,2009,1h 36m
+112,"['112', ' Hamilton']",8.3,2020,2h 40m
+113,"['113', ' To Kill a Mockingbird']",8.3,1962,2h 9m
+114,"['114', ' The Sting']",8.3,1973,2h 9m
+115,"['115', ' Jodaeiye Nader Az Simin']",8.3,2011,2h 3m
+116,"['116', ' Indiana Jones and the Last Crusade']",8.2,1989,2h 7m
+117,"['117', ' Metropolis']",8.3,1927,2h 33m
+118,"['118', ' Die Hard']",8.2,1988,2h 12m
+119,"['119', ' Taare Zameen Par']",8.3,2007,2h 42m
+120,"['120', ' Snatch']",8.2,2000,1h 44m
+121,"['121', ' Ladri Di Biciclette']",8.3,1948,1h 29m
+122,"['122', ' L', 'A', ' Confidential']",8.2,1997,2h 18m
+123,"['123', ' Taxi Driver']",8.2,1976,1h 54m
+124,"['124', ' 1917']",8.2,2019,1h 59m
+125,"['125', ' Der Untergang']",8.2,2004,2h 36m
+126,"['126', ' Dangal']",8.3,2016,2h 41m
+127,"['127', ' Per qualche dollaro in più']",8.2,1965,2h 12m
+128,"['128', ' Batman Begins']",8.2,2005,2h 20m
+129,"['129', ' Top Gun: Maverick']",8.3,2022,2h 10m
+130,"['130', ' Some Like It Hot']",8.2,1959,2h 1m
+131,"['131', ' The Kid']",8.2,1921,1h 8m
+132,"['132', ' The Wolf of Wall Street']",8.2,2013,3h
+133,"['133', ' The Father']",8.2,2020,1h 37m
+134,"['134', ' Green Book']",8.2,2018,2h 10m
+135,"['135', ' All About Eve']",8.2,1950,2h 18m
+136,"['136', ' Judgment at Nuremberg']",8.3,1961,2h 59m
+137,"['137', ' The Truman Show']",8.2,1998,1h 43m
+138,"['138', ' There Will Be Blood']",8.2,2007,2h 38m
+139,"['139', ' Casino']",8.2,1995,2h 58m
+140,"['140', ' Ran']",8.2,1985,2h 40m
+141,"['141', ' Shutter Island']",8.2,2010,2h 18m
+142,"['142', ' El Laberinto Del Fauno']",8.2,2006,1h 58m
+143,"['143', ' The Sixth Sense']",8.2,1999,1h 47m
+144,"['144', ' Jurassic Park']",8.2,1993,2h 7m
+145,"['145', ' Unforgiven']",8.2,1992,2h 10m
+146,"['146', ' A Beautiful Mind']",8.2,2001,2h 15m
+147,"['147', ' The Treasure of the Sierra Madre']",8.2,1948,2h 6m
+148,"['148', ' Yôjinbô']",8.2,1961,1h 50m
+149,"['149', ' No Country for Old Men']",8.2,2007,2h 2m
+150,"['150', ' Kill Bill: Vol', ' 1']",8.2,2003,1h 51m
+151,"['151', ' Monty Python and the Holy Grail']",8.2,1975,1h 31m
+152,"['152', ' The Thing']",8.2,1982,1h 49m
+153,"['153', ' The Great Escape']",8.2,1963,2h 52m
+154,"['154', ' Finding Nemo']",8.2,2003,1h 40m
+155,"['155', ' Rashōmon']",8.2,1950,1h 28m
+156,"['156', ' The Elephant Man']",8.2,1980,2h 4m
+157,"['157', ' Chinatown']",8.2,1974,2h 10m
+158,"['158', ' Hauru No Ugoku Shiro']",8.2,2004,1h 59m
+159,"['159', ' Dial M for Murder']",8.2,1954,1h 45m
+160,"['160', ' Gone with the Wind']",8.2,1939,3h 58m
+161,"['161', ' V for Vendetta']",8.2,2005,2h 12m
+162,"['162', ' Raging Bull']",8.1,1980,2h 9m
+163,"['163', ' Prisoners']",8.1,2013,2h 33m
+164,"['164', ' Lock, Stock and Two Smoking Barrels']",8.1,1998,1h 47m
+165,"['165', ' El Secreto De Sus Ojos']",8.2,2009,2h 9m
+166,"['166', ' Inside Out']",8.1,2015,1h 35m
+167,"['167', ' Spider-Man: No Way Home']",8.2,2021,2h 28m
+168,"['168', ' Three Billboards Outside Ebbing, Missouri']",8.1,2017,1h 55m
+169,"['169', ' The Bridge on the River Kwai']",8.1,1957,2h 41m
+170,"['170', ' Trainspotting']",8.1,1996,1h 33m
+171,"['171', ' Fargo']",8.1,1996,1h 38m
+172,"['172', ' Warrior']",8.1,2011,2h 20m
+173,"['173', ' Gran Torino']",8.1,2008,1h 56m
+174,"['174', ' Catch Me If You Can']",8.1,2002,2h 21m
+175,"['175', ' My Neighbour Totoro']",8.1,1988,1h 26m
+176,"['176', ' Million Dollar Baby']",8.1,2004,2h 12m
+177,"['177', ' Klaus']",8.2,2019,1h 36m
+178,"['178', ' Harry Potter and the Deathly Hallows: Part 2']",8.1,2011,2h 10m
+179,"['179', ' Bacheha-Ye Aseman']",8.2,1997,1h 29m
+180,"['180', ' Blade Runner']",8.1,1982,1h 57m
+181,"['181', ' 12 Years a Slave']",8.1,2013,2h 14m
+182,"['182', ' Before Sunrise']",8.1,1995,1h 41m
+183,"['183', ' The Grand Budapest Hotel']",8.1,2014,1h 39m
+184,"['184', ' The Gold Rush']",8.1,1925,1h 35m
+185,"['185', ' Ben-Hur']",8.1,1959,3h 32m
+186,"['186', ' Barry Lyndon']",8.1,1975,3h 5m
+187,"['187', ' Gone Girl']",8.1,2014,2h 29m
+188,"['188', ' Hacksaw Ridge']",8.1,2016,2h 19m
+189,"['189', ' On the Waterfront']",8.1,1954,1h 48m
+190,"['190', ' In the Name of the Father']",8.1,1993,2h 13m
+191,"['191', ' Salinui Chueok']",8.1,2003,2h 11m
+192,"['192', ' The General']",8.1,1926,1h 18m
+193,"['193', ' The Deer Hunter']",8.1,1978,3h 3m
+194,"['194', ' Smultronstället']",8.1,1957,1h 31m
+195,"['195', ' Relatos Salvajes']",8.1,2014,2h 2m
+196,"['196', ' The Third Man']",8.1,1949,1h 44m
+197,"['197', ' Le Salaire De La Peur']",8.2,1953,2h 11m
+198,"['198', ' Sherlock Jr', '']",8.2,1924,45m
+199,"['199', ' Dead Poets Society']",8.1,1989,2h 8m
+200,"['200', ' Mad Max: Fury Road']",8.1,2015,2h
+201,"['201', ' Monsters, Inc', '']",8.1,2001,1h 32m
+202,"['202', ' Mr', ' Smith Goes to Washington']",8.1,1939,2h 9m
+203,"['203', ' Jaws']",8.1,1975,2h 4m
+204,"['204', ' How to Train Your Dragon']",8.1,2010,1h 38m
+205,"['205', ' Mary and Max']",8.1,2009,1h 32m
+206,"['206', ' Det Sjunde Inseglet']",8.1,1957,1h 36m
+207,"['207', ' Ford v', ' Ferrari']",8.1,2019,2h 32m
+208,"['208', ' Room']",8.1,2015,1h 58m
+209,"['209', ' The Big Lebowski']",8.1,1998,1h 57m
+210,"['210', ' Tokyo Story']",8.1,1953,2h 16m
+211,"['211', ' Ratatouille']",8.1,2007,1h 51m
+212,"['212', ' Rocky']",8.1,1976,2h
+213,"['213', ' Hotel Rwanda']",8.1,2004,2h 1m
+214,"['214', ' Logan']",8.1,2017,2h 17m
+215,"['215', "" La passion de Jeanne d'Arc""]",8.1,1928,1h 50m
+216,"['216', ' Spotlight']",8.1,2015,2h 9m
+217,"['217', ' Platoon']",8.1,1986,2h
+218,"['218', ' The Terminator']",8.1,1984,1h 47m
+219,"['219', ' Jai Bhim']",8.8,2021,2h 44m
+220,"['220', ' Before Sunset']",8.1,2004,1h 20m
+221,"['221', ' Rush']",8.1,2013,2h 3m
+222,"['222', ' Network']",8.1,1976,2h 1m
+223,"['223', ' The Best Years of Our Lives']",8.1,1946,2h 50m
+224,"['224', ' The Exorcist']",8.1,1973,2h 2m
+225,"['225', ' Stand by Me']",8.1,1986,1h 29m
+226,"['226', ' La haine']",8.1,1995,1h 38m
+227,"['227', ' The Wizard of Oz']",8.1,1939,1h 42m
+228,"['228', ' Pirates of the Caribbean: The Curse of the Black Pearl']",8.1,2003,2h 23m
+229,"['229', ' Into the Wild']",8.1,2007,2h 28m
+230,"['230', ' The Incredibles']",8.0,2004,1h 55m
+231,"['231', ' Babam Ve Oglum']",8.2,2005,1h 52m
+232,"['232', ' To Be or Not to Be']",8.2,1942,1h 39m
+233,"['233', "" Hachi: A Dog's Tale""]",8.1,2009,1h 33m
+234,"['234', ' Ah-ga-ssi']",8.1,2016,2h 25m
+235,"['235', ' The Grapes of Wrath']",8.1,1940,2h 9m
+236,"['236', ' La battaglia di Algeri']",8.1,1966,2h 1m
+237,"['237', ' Groundhog Day']",8.0,1993,1h 41m
+238,"['238', ' Amores perros']",8.1,2000,2h 34m
+239,"['239', ' Rebecca']",8.1,1940,2h 10m
+240,"['240', ' The Sound of Music']",8.1,1965,2h 52m
+241,"['241', ' Cool Hand Luke']",8.1,1967,2h 7m
+242,"['242', ' Pather Panchali']",8.2,1955,2h 5m
+243,"['243', ' The Iron Giant']",8.1,1999,1h 26m
+244,"['244', ' It Happened One Night']",8.1,1934,1h 45m
+245,"['245', ' The Help']",8.1,2011,2h 26m
+246,"['246', ' The 400 Blows']",8.1,1959,1h 39m
+247,"['247', ' Persona']",8.1,1966,1h 25m
+248,"['248', ' Life of Brian']",8.0,1979,1h 34m
+249,"['249', ' Aladdin']",8.0,1992,1h 30m
+250,"['250', ' Dances with Wolves']",8.0,1990,3h 1m
